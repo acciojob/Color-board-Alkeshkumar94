@@ -20,6 +20,4 @@ body {
   transition: background-color 1s ease;
 }
 
-.square:hover {
-  background-color:red;
-}
+
